@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniLearningManagement.Api", "MiniLearningManagement.Api\MiniLearningManagement.Api.csproj", "{14C6D189-B73E-4D98-9A77-8D3462D600DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniLearningManagement.Tests", "MiniLearningManagement.Tests\MiniLearningManagement.Tests.csproj", "{F4AC2EAE-E5DE-4418-91B7-D581F2453AFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14C6D189-B73E-4D98-9A77-8D3462D600DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C6D189-B73E-4D98-9A77-8D3462D600DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14C6D189-B73E-4D98-9A77-8D3462D600DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14C6D189-B73E-4D98-9A77-8D3462D600DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4AC2EAE-E5DE-4418-91B7-D581F2453AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4AC2EAE-E5DE-4418-91B7-D581F2453AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4AC2EAE-E5DE-4418-91B7-D581F2453AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4AC2EAE-E5DE-4418-91B7-D581F2453AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82873CDD-3663-488B-9BE0-103E42AF3D68}
+	EndGlobalSection
+EndGlobal
